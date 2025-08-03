@@ -9,37 +9,37 @@ Full Stack Developer | React & Node.js Specialist | Building Modern Web & Cross-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayakrishnamarisetty" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jayakrishnamarisetty&theme=onedark&margin-w=10&no-frame=true" alt="Trophies" />
   </a>
 </p>
 
 ---
 
 ### 🔭 Currently Working On:
-- Full Stack Projects using **React.js, Node.js, Express.js, and MongoDB**
-- Cross-Platform Mobile Apps with **React Native**
-- Enhancing automation and ITSM solutions using **ServiceNow**
+- 🚀 Full Stack Projects using **React.js, Node.js, Express.js, and MongoDB**
+- 📱 Cross-Platform Mobile Apps with **React Native**
+- ⚙️ Enhancing automation and ITSM workflows using **ServiceNow**
 
 ### 💬 Ask Me About:
-- Real-time web applications
-- Building RESTful APIs
-- React Native app architecture
-- Integrations with ServiceNow
+- Real-time web applications & RESTful APIs
+- React Native mobile development
+- Integration with ServiceNow
+- Design systems and UI engineering
 
 ### 📫 Reach Me At:
-- 📧 **jayakrishna1057@gmail.com**
+- ✉️ **jayakrishna1057@gmail.com**
 
 ---
 
-### 🤝 Connect With Me:
+### 🌐 Connect With Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/jkm12345" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/jaya-krishna" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/jayakrishna50" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/jayakrishna123" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/22a91a61g8" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/jayakrisgajo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jkm12345" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/jaya-krishna" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/jayakrishna50" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/jayakrishna123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/22a91a61g8" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/jayakrisgajo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Full Stack Developer | React & Node.js Specialist | Building Modern Web & Cross-
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
@@ -82,14 +82,11 @@ Full Stack Developer | React & Node.js Specialist | Building Modern Web & Cross-
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnamarisetty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishnamarisetty&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnamarisetty&layout=compact&theme=react&hide_border=true" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayakrishnamarisetty&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnamarisetty" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayakrishnamarisetty&theme=react&hide_border=true" />
+</div>
